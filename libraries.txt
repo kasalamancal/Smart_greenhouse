@@ -1,0 +1,3 @@
+Adafruit Unified Sensor 1.1.4
+DHT sensor libary 1.4.2
+OLED_I2C 2.0 -> http://www.rinkydinkelectronics.com/library.php?id=79
